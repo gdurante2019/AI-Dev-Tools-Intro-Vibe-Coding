@@ -5,3 +5,5 @@ This workshop constitutes Module 1 of the AI Dev Tools Zoomcamp, hosted by DataT
 URL for Introduction to Vibe Coding:  https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/tree/main/01-overview
 
 URL for AI Dev Tools Zoom Camp:  https://github.com/DataTalksClub/ai-dev-tools-zoomcamp
+
+(summary of the workshop is my own)
