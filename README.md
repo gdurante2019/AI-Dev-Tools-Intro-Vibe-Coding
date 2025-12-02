@@ -6,4 +6,3 @@ URL for Introduction to Vibe Coding:  https://github.com/DataTalksClub/ai-dev-to
 
 URL for AI Dev Tools Zoom Camp:  https://github.com/DataTalksClub/ai-dev-tools-zoomcamp
 
-(summary of the workshop is my own)
